@@ -1,0 +1,10 @@
+
+.contador-container{
+    margin: 20px;
+    padding: 20px;
+    border-color: azure;
+    border: solid;
+    font-size:80px;
+    display: flex;
+    justify-content: center;
+  }
